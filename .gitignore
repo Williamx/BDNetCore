@@ -1,0 +1,6 @@
+ *.csproj
+ *.accdb
+ *.pub
+ *senha
+
+ 
