@@ -6,9 +6,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/williamx/oauth2-django)
 ![GitHub pull requests by-label](https://img.shields.io/github/issues-pr-raw/Williamx/oauth2-django/oauth2-django)
 ![GitHub language count](https://img.shields.io/github/languages/count/Williamx/oauth2-django)
-
 <br />
-CRUD Asp .NET core MVC + ENTITY fRAMEWORK
+CRUD Asp.NETCore-MVC-ENTITY-FRAMEWORK
 ===
 ESQUELETO ASP .NET MVC5 C# 
 
