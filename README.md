@@ -4,7 +4,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 ![GitHub repo size](https://img.shields.io/github/repo-size/WIlliamx/CRUD-AspNETCore-MVC-EntityFramework)
 ![GitHub last commit](https://img.shields.io/github/last-commit/williamx/CRUD-AspNETCore-MVC-EntityFramework)
-![GitHub pull requests by-label](https://img.shields.io/github/issues-pr-raw/Williamx/CRUD-AspNETCore-MVC-EntityFramework/CRUD-AspNETCore-MVC-EntityFramework)
+![GitHub pull requests by-label](https://img.shields.io/github/issues-pr-raw/Williamx/CRUD-AspNETCore-MVC-EntityFramework)
 ![GitHub language count](https://img.shields.io/github/languages/count/Williamx/CRUD-AspNETCore-MVC-EntityFramework)
 <br />
 CRUD Asp.NETCore-MVC-ENTITY-FRAMEWORK
